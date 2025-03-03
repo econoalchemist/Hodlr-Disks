@@ -1,2 +1,6 @@
-# Hodlr-Disks
-Don't fear it, secure it. A guide on the Hodlr Disk stainless steel backups.
+# Don't fear it, secure it. A guide on the Hodlr Disk stainless steel backups.
+An article on securing and recovering a Bitcoin seed phrase with the Hodlr Disks stainless steel backup. If you value permissionless money and the ability to transact without being censored then self-custody and get your bitcoin out of third party control.
+
+![](/assets/IMG_4970.jpg)
+
+This article covers unboxing, testing, and reviewing the Hodlr Disks made by [Hodlr Swiss](https://hodlr.swiss/). I am not paid by, endorsed, or sponsored by Hodlr Swiss. My intensions with this article are to share my thoughts about this backup device. I hope that by the end you see that self-custody is not scary and learn how to secure your Bitcoin backup in a secure medium like stainless steel. Around the end of November, Hodlr Swiss reached out to me to see if I would be interested in unboxing, testing, & reviewing their new stainless steel backup, the Hodlr Disks. Since I have a propensity to focus on self-custody & secure backups, I thought that this would fall neatly into my wheelhouse. After looking at the product on the [Hodlr Swiss website](https://hodlr.swiss/), I agreed to give this a shot. It looked really clean and cool, well made, and I wanted to try it out for myself. I'm glad that I did because I was really impressed with it, and I hope this article gets you thinking about incorporating a secure metal backup into your Bitcoin operating procedures. 
