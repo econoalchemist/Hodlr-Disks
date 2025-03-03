@@ -6,8 +6,8 @@ Once the tamper evident sticker is applied, the Hodlr Disks is ready for storage
 How it Started:                                                              How it's going:
 
 <p align="center">
-<img width="400" src="/assets/IMG5018.jpg">
-<img width="400" src="/assets/IMG5020.jpg">
+<img width="400" src="/assets/IMG_5018.jpg">
+<img width="400" src="/assets/IMG_5020.jpg">
 </p>
 
 After heating up metal moving parts like that, it is normal for them to be difficult to take apart. The threaded cap was not able to be removed by hand after this heat stress test. I tried using a punch & hammer and the set-screw hole as a spanner point, but the distortion from nearly melting was too bad and the pieces would not spin apart. I ended up using a cutting disc on a grinder to split the outer ring into two pieces. 
