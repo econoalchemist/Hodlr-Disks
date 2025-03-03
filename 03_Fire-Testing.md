@@ -3,7 +3,7 @@ Once the tamper evident sticker is applied, the Hodlr Disks is ready for storage
 
 [![Fire Testing Video](/assets/Hodlr-Fire-Thumbnail.png)](https://bitcointv.com/w/cV3X3o3bBNPhrujvLf5Af2 "Fire Testing Video")
 
-How it Started:                                                              How it's going:
+How it started, how it's going:
 
 <p align="center">
 <img width="400" src="/assets/IMG_5018.jpg">
