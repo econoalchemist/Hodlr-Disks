@@ -19,7 +19,7 @@ Now that the 24 seed words have been transferred to the slip of paper, the next 
 
 In the next video, I demonstrate how to use the marker to indicate which letter in each ring that needs to be stamped. Using the marker first, allows you to double check your work before proceeding with the irreversible spring-loaded punch. After marking your letters with the marker, make sure to double check your work. If you made a mistake you can easily clean the marker off with some alcohol. 
 
-[![Hodlr Disk Transfer Video](/assets/Marking-Thumbnail.png)](https://bitcointv.com/w/naPTw1wSmZB5HyhWG3HhuF "Hodlr Disk Marking Video")
+[![Hodlr Disk Transfer Video](/assets/Hodlr-Marking-Thumbnail.png)](https://bitcointv.com/w/naPTw1wSmZB5HyhWG3HhuF "Hodlr Disk Marking Video")
 
 ![](/assets/IMG_5006.jpg)
 
